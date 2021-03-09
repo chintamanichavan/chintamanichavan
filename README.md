@@ -42,7 +42,7 @@ DevOps Processes and Best Practices
 
 ### What do I do apart from technology
 
-I love listening rock music🎵, also up for a tennis game in my free time.
+I love listening rock music🎵, and I am an avid Cricket fan. Also up for a tennis game in my free time.
 
 ### Other Interests
 As the computer science domain is so vast and there are many applications in other fields. I am trying to explore few of them. Recently, I started exploring Artificial Intelligence and Machine Learning and I am loving it.
