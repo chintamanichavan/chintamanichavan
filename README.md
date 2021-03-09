@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### 👋 I am Chintamani Chavan, and I am actively seeking Full-Time Opportunities!!
 
+![DevOps](https://www.itglue.com/wp-content/uploads/2016/06/devsecops.gif)
+
 ### About Me
 
 I am a recent graduate from Rochester Institute of Technology with a major in Network and System Administration. Actively seeking full-time positions in the field of DevOps, Cloud computing and Networking.
