@@ -31,8 +31,19 @@ I have gained experience as an Assistant System Administrator with a demonstrate
 • Basic understanding of software containerization platforms like Docker and container orchestration tools like Kubernetes.
 • Basic knowledge of microservices integration with the build and deployment pipeline.
 
-Major skills and tools:
+### Major skills and tools:
 Linux, Windows
 Jenkins,
 Shell Scripting, Python
 DevOps Processes and Best Practices
+
+
+### What do I do apart from technology
+
+I love listening rock music🎵, also up for a tennis game in my free time.
+
+### Other Interests
+As the computer science domain is so vast and there are many applications in other fields. I am trying to explore few of them. Recently, I started exploring Artificial Intelligence and Machine Learning and I am loving it.
+
+Moreover, I started reading books based on financial/investment lietaracy.
+
