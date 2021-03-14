@@ -47,5 +47,3 @@ I love listening to rock music🎵, and I am an avid Cricket fan. Also up for a 
 ### Other Interests
 As the computer science domain is so vast and there are many applications in other fields. I am trying to explore few of them. Recently, I started exploring Artificial Intelligence and Machine Learning and I am loving it.
 
-Moreover, recently I started reading books based on financial/investment strategies to achieve financial literacy. 
-
