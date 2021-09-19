@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### 👋 I am Chintamani Chavan, and I am actively seeking Full-Time Opportunities!!
 
-![DevOps](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)
+![Devloper](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)
+![DevOps](https://www.logigear.com/blog/wp-content/uploads/DevOps-1024x768px.gif)
 
 ### About Me
 
