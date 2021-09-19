@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 I am Chintamani Chavan, and I am actively seeking Full-Time Opportunities!!
 
-![DevOps](https://www.itglue.com/wp-content/uploads/2016/06/devsecops.gif)
+![DevOps](https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media)
 
 ### About Me
 
