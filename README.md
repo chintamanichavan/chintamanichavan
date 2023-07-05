@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am a recent graduate from Rochester Institute of Technology with a major in Network and System Administration. Actively seeking full-time positions in the field of DevOps, Cloud computing and Networking.
+I am a graduate from Rochester Institute of Technology with a major in Network and System Administration. Actively seeking full-time positions in the field of DevOps, Cloud computing and Networking.
 I have gained experience as an Assistant System Administrator with a demonstrated history of working in the higher education industry.
 
 ### • Good hands-on knowledge of Source Code Management (Version Control System) tools like Git and GitHub.
