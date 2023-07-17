@@ -13,37 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 I am Chintamani Chavan, and I am actively seeking Full-Time Opportunities!!
+# 👋 Hello, I'm Chintamani Sadanand Chavan!
 
-![DevOps](https://www.logigear.com/blog/wp-content/uploads/DevOps-1024x768px.gif)
+I'm actively seeking Full-Time Opportunities in the field of Site Reliability Engineering (SRE), DevOps, and Cloud computing!
 
-### About Me
+## About Me 📚
+I am a graduate from the Rochester Institute of Technology where I majored in Network and System Administration. I have experience working as an Operations Engineer at Cardinal Capital LLC and as a Systems Engineer I at Modis. During my career, I have demonstrated my expertise in establishing data pipelines, implementing real-time data visualization dashboards, setting up trading infrastructure, and automating application workflows.
 
-I am a graduate from Rochester Institute of Technology with a major in Network and System Administration. Actively seeking full-time positions in the field of DevOps, Cloud computing and Networking.
-I have gained experience as an Assistant System Administrator with a demonstrated history of working in the higher education industry.
+## Technical Skills 💻
+- Proficient in scripting languages like `Python`, `PowerShell`, and `Bash`.
+- Experience in establishing data pipelines using `Airflow Clusters`.
+- Proven ability to design and implement real-time data visualization dashboards using `Streamlit`.
+- Hands-on experience in working with DB-Servers and Trade-Servers to set up trading infrastructure.
+- Experience in creating `React` Dashboards for Trade Error Log reporting and monitoring.
+- Proficient in working with `Azure DevOps Server` to set up CI/CD workflows.
+- Skilled in designing and configuring `Docker` containers to implement the portable deployment of applications.
+- Strong understanding of Infrastructure as Code (IaC) with hands-on experience in tools like `Ansible` and `Terraform`.
+- Proficient with `Linux` and hands-on experience with source code management tools like `Git`.
+- Working knowledge of cloud service providers, like `Azure` and `GCP`.
+- Understanding of software containerization platforms like `Docker` and container orchestration tools like `Kubernetes`.
+- Experience with monitoring tools like `Prometheus` and `Grafana`, log management with `ELK`, and message queuing systems like `RabbitMQ`.
+- Familiarity with `SQL` and `MongoDB`.
 
-### • Good hands-on knowledge of Source Code Management (Version Control System) tools like Git and GitHub.
-### • Proficient in developing Continuous Integration/ Delivery pipelines.
-### • Working Knowledge of programming languages like Java and Python.
-### • Experience with automation/ integration tools like Jenkins.
-### • Working knowledge of Infrastructure as Code (Programmable Infrastructure) and how you can achieve that by using tools like Ansible and Terraform.
-### • Hands-on experience in Linux and scripting languages like Shell.
-### • Proficient with code quality/security analysis and its application using tools like SonarQube.
-### • Basic working knowledge of cloud service providers, like AWS, Azure and GCP.
-### • Basic understanding of software containerization platforms like Docker and container orchestration tools like Kubernetes.
-### • Basic knowledge of microservices integration with the build and deployment pipeline.
+## What I Do Apart from Technology 🎵🏏🎾
+I love listening to rock music, and am an avid fan of cricket. I also enjoy playing tennis in my free time.
 
-### Major skills and tools:
-Linux, Windows
-Jenkins,
-Shell Scripting, Python
-DevOps Processes and Best Practices
-
-
-### What do I do apart from technology
-
-I love listening to rock music🎵, and I am an avid Cricket fan. Also up for a tennis game in my free time.
-
-### Other Interests
-As the computer science domain is so vast and there are many applications in other fields. I am trying to explore few of them. Recently, I started exploring Artificial Intelligence and Machine Learning and I am loving it.
-
+## Other Interests 👀
+The computer science domain is so vast and has many applications in other fields. Lately, I have started exploring Artificial Intelligence and Machine Learning and I am enjoying the journey.
