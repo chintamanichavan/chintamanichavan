@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
+![Chintamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintamanichavan&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![](https://komarev.com/ghpvc/?username=KhachDavid)
+
+
+
 # 👋 Hello, I'm Chintamani Sadanand Chavan!
 
 I'm actively seeking Full-Time Opportunities in the field of Site Reliability Engineering (SRE), DevOps, and Cloud computing!
