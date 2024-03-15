@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 # 👋 Hello, I'm Chintamani Sadanand Chavan!
 
 I'm a Senior DevOps Associate at an algorithmic trading firm.
+Currently based in Chicago.
 
 ## About Me 📚
 I am a graduate from the Rochester Institute of Technology where I majored in Network and System Administration. I have experience working as an Operations Engineer at Cardinal Capital LLC and as a Systems Engineer I at Modis. During my career, I have demonstrated my expertise in establishing data pipelines, implementing real-time data visualization dashboards, setting up trading infrastructure, and automating application workflows.
